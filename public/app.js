@@ -10,19 +10,9 @@ const configuration = {
       ],
     },
     {
-      'url': 'turn:numb.viagenie.ca',
-      'username': 'muazkh',
-      'credential': 'webrtc@live.com'
-    },
-    {
-      'urls': 'turn:192.158.29.39:3478?transport=udp',
-      'credential': 'JZEOEt2V3Qb0y27GRntt2u2PAYA=',
-      'username': '28224511:1379330808'
-    },
-    {
-      'urls': 'turn:192.158.29.39:3478?transport=tcp',
-      'credential': 'JZEOEt2V3Qb0y27GRntt2u2PAYA=',
-      'username': '28224511:1379330808'
+      'url': 'turn:159.65.135.175:3478',
+      'username': 'test',
+      'credential': 'test123'
     }
   ],
   iceCandidatePoolSize: 10,
